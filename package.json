@@ -1,6 +1,6 @@
 {
   "name": "@alextoudic/obj-mtl-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OBJMTLLoader wrapper for webpack",
   "main": "index.js",
   "scripts": {
